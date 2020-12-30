@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\server\Pixel\Pixel.FurnitureCreator\bin\Debug\Pixel.FurnitureCreator.exe.config
+C:\inetpub\wwwroot\server\Pixel\Pixel.FurnitureCreator\bin\Debug\Pixel.FurnitureCreator.exe
+C:\inetpub\wwwroot\server\Pixel\Pixel.FurnitureCreator\bin\Debug\Pixel.FurnitureCreator.pdb
+C:\inetpub\wwwroot\server\Pixel\Pixel.FurnitureCreator\obj\Debug\Pixel.FurnitureCreator.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\server\Pixel\Pixel.FurnitureCreator\obj\Debug\Pixel.FurnitureCreator.MainForm.resources
+C:\inetpub\wwwroot\server\Pixel\Pixel.FurnitureCreator\obj\Debug\Pixel.FurnitureCreator.Properties.Resources.resources
+C:\inetpub\wwwroot\server\Pixel\Pixel.FurnitureCreator\obj\Debug\Pixel.FurnitureCreator.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\server\Pixel\Pixel.FurnitureCreator\obj\Debug\Pixel.FurnitureCreator.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\server\Pixel\Pixel.FurnitureCreator\obj\Debug\Pixel.FurnitureCreator.exe
+C:\inetpub\wwwroot\server\Pixel\Pixel.FurnitureCreator\obj\Debug\Pixel.FurnitureCreator.pdb
